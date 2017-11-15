@@ -1,0 +1,23 @@
+#canvas{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+}
+body{
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 18px;
+    background-image: url("img/background.jpg");
+}
+span{
+    font-family: cursive;
+    font-size: 16px;
+}
+div{
+    background-color: aliceblue;
+    border: 1px solid black;
+    width:200px;
+}
